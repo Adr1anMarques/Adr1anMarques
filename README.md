@@ -22,17 +22,22 @@
 <div style="text-align: center;" align="center">
  <h3 align="center">GitHub Stats</h3>
 
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Adr1anMarques&show_icons=true&count_private=true&hide=issues&bg_color=000000&title_color=BBBBBB&text_color=DDDDDD&icon_color=CCCCCC&border_color=444" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adr1anMarques&layout=compact&hide=html,scss,less&count_private=true&bg_color=000000&title_color=BBBBBB&text_color=DDDDDD&icon_color=CCCCCC&border_color=444" alt="Top Langs" />
-      </td>
-    </tr>
-  </table>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Adr1anMarques&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adr1anMarques&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
 
 
